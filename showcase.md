@@ -1,4 +1,4 @@
-Here is a quick showcase of the Plugin! :)
+# Here is a quick showcase of the Plugin! :)
 ![image1](https://i.imgur.com/ZW9yvOc.png)
 ![image2](https://i.imgur.com/13B4Lve.png)
 ![image3](https://i.imgur.com/TvpYSNe.png)
