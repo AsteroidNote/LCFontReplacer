@@ -26,6 +26,7 @@ After doing this, go to the BepInEx folder and open the plugins folder.
 ### Step 5
 All you have to do now is to copy the FontReplacer folder in the plugins folder. You can get it [here](https://github.com/AsteroidNote/LCFontReplacer/releases/tag/v1.0.0).
 ![image5](https://i.imgur.com/QD0infh.png)
+#### Note: Keep all files from the zip together. Removing them will break the font replacement.
 
 ### Step 6
 All you have to do now is to run the Modded Game.
