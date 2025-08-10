@@ -1,0 +1,8 @@
+Here is a quick showcase of the Plugin! :)
+![image1](https://i.imgur.com/ZW9yvOc.png)
+![image2](https://i.imgur.com/13B4Lve.png)
+![image3](https://i.imgur.com/TvpYSNe.png)
+![image4](https://i.imgur.com/HKimWFK.png)
+![image5](https://i.imgur.com/W4RosAg.png)
+![image6](https://i.imgur.com/f8wBlsk.png)
+![image7](https://i.imgur.com/FSSP4Ci.png)
