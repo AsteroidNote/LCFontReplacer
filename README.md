@@ -29,6 +29,7 @@ All you have to do now is to copy the FontReplacer folder in the plugins folder.
 
 ### Step 6
 All you have to do now is to run the Modded Game.
+
 ![image6](https://i.imgur.com/Ozn3DY0.png)
 
 #### If everything done correctly, your game's font should look like this.
