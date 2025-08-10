@@ -39,7 +39,7 @@ All you have to do now is to run the Modded Game.
 ## Additional Information
 The Font used in this Plugin is VCR OSD Mono.
 
-All Reserved Rights go to BepInEx's creator, Thunderstore and Zeekerss.
+Most rights reserved by the respective creators of BepInEx, Thunderstore, and Zeekerss.
 
 And most importantly... Have fun! :3
 
