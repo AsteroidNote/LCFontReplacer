@@ -1,7 +1,7 @@
 ![# LCFontReplacer](https://i.imgur.com/Vy9XTzw.png)
 # A BepInEx Plugin that changes the Font of Lethal Company.
 
-The Showcase of the Plugin can be found [here](https://github.com/AsteroidNote/LCFontReplacer/blob/main/showcase.md)
+The Showcase of the Plugin can be found [here](https://github.com/AsteroidNote/LCFontReplacer/blob/main/showcase.md).
 
 ## How to Install
 
